@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="MAVEN_REPOSITORY" value="/usr/local/google/home/peringknife/.m2/repository" />
+    <macro name="KOTLIN_BUNDLED" value="/opt/intellij-ce-2017.1/plugins/Kotlin/kotlinc" />
+  </component>
+</application>

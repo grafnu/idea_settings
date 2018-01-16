@@ -1,0 +1,84 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_151&quot;" />
+      <homePath value="/usr/lib/jvm/default-java" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/ext/icedtea-sound.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/ext/java-atk-wrapper.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/default-java/jre/lib/rt.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://docs.oracle.com/javase/8/docs/api/" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 (/usr/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="/usr/bin/python3" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/buildtools/current/sitecustomize" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/local/lib/python3.5/dist-packages" />
+            <root type="simple" url="file:///usr/lib/python3/dist-packages" />
+            <root type="simple" url="file://$USER_HOME$/.IdeaIC2017.2/system/python_stubs/-2066100795" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
