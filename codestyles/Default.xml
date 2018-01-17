@@ -3,6 +3,7 @@
     <option name="ALIGN_COLLECTIONS_AND_COMPREHENSIONS" value="false" />
   </Python>
   <codeStyleSettings language="JAVA">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
